@@ -1,6 +1,9 @@
 ### Document Scanner
 PresentID Document scanner API localizes document images with various distortion types from a single input image.
 
+![Document](https://user-images.githubusercontent.com/63470748/119769067-a17dfa80-be6e-11eb-92e2-9f8fff62f202.png)
+
+
 **Input:**
 - Image file
 - Image URL link
@@ -24,3 +27,6 @@ PresentID Document scanner API localizes document images with various distortion
 - Send data via Base64 or an image URL or an image file.
 - Image size should not exceed 8 MB.
 - Also, the images should not be larger than 5000 pixels and smaller than 50 pixels.
+
+## Freetry in RapidAPI
+https://rapidapi.com/PresentID/api/document-scanner
