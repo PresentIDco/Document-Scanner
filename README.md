@@ -13,7 +13,7 @@ PresentID Document scanner API localizes document images with various distortion
 - Base64 image
 - Status message
 
-**Ability & Potentials:**
+**Features:**
 - Less than 1.5 seconds on CPU core i7.
 - Perfect detection on a salient document in the image.
 - Support IOS, Android, Windows and Mac devices.
